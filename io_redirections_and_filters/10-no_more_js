@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -rlZ "\.js" /io_redirections_and_filters | xargs-0 rm
