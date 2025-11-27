@@ -1,2 +1,4 @@
 #!/bin/bash
-printf "(Ôo)'\n"
+printf '"(\xD4o)'\'''
+
+
