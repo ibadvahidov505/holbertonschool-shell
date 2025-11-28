@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l --time=birth
+ls -1l | head -10
